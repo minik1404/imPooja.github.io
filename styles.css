@@ -1,0 +1,19 @@
+h1{text-align: center;}
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    width: 10%;
+    border-width:20px;;
+    border-color:#FF869E;
+    }
+body{background-color:#FFC4C4}
+h1{color:#A10035 ;}
+h2{color:#FF869E}
+h3{color:blue}
+
+.joinbtn{ 
+    background-color: lightcoral;
+}
+.joinbtn:hover{
+    background-color: rgb(243, 170, 170);
+}

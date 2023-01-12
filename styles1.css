@@ -1,0 +1,50 @@
+/*--------------- tag selector--------------- */
+
+body{background-color:rgb(225, 151, 164);}
+body:hover{background-color:rgb(224, 180, 188);}
+
+h1{
+    color:black;
+   font-size: 60px;
+}
+
+p{color: white;}
+
+
+
+
+p:hover{
+    background-color: red;
+}
+
+img {
+    background-color: black;;
+}
+img:hover {
+    background-color: gold;
+}
+.joinbtn{
+    
+    background-color:rgb(90, 90, 211) ;
+}
+.joinbtn:hover{
+    
+    background-color:rgb(142, 142, 201) ;
+}
+/* -------------------class selector------------------ */
+
+.kurkure{background-color: rgb(156, 33, 33);}
+.broccoli{background-color: aquamarine;}
+.circular{border-radius: 100px;}
+
+
+
+/*----------------- ID  selector ---------------------*/
+#heading{
+    color: blue;
+}
+
+
+/* ******************************************* here we got the point that class ement are not unique while id have unique element ****************************** */
+
+/* ******************************************* also a class element can have more than twoo elements while id can only have one attribute ****************************** */

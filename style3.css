@@ -1,0 +1,29 @@
+.top{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    
+    position: relative;
+    
+
+}
+.middle{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 100px;
+
+}
+.bottom{
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+    
+    position:relative;
+    left: 200px;
+
+}
+body{
+    margin: 0;
+}
